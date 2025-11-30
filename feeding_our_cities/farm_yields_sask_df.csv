@@ -1,0 +1,16 @@
+,crop_name,province_state,region,crop_description,yield_kg_per_m2
+0,Winter Wheat,SK,Province,"Winter Wheat, 10 year average",0.26631382176905766
+1,Durum,SK,Province,"Durum, 10 year average",0.22865328131686768
+2,Flax,SK,Province,"Flax, 10 year average",0.13934436538906747
+3,Fall Rye,SK,Province,"Fall Rye, 10 year average",0.23286828630335152
+4,Oat,SK,Province,"Oat, 10 year average",0.29734029933446054
+5,Canola,SK,Province,"Canola, 10 year average",0.19110496624472487
+6,Hard Red Spring Wheat,SK,Province,"Hard Red Spring Wheat, 10 year average",0.278418995485833
+7,Barley,SK,Province,"Barley, 10 year average",0.3206526015643604
+8,Soybean,SK,Province,"Soybean, 10 year average",0.1654373741292631
+9,Field Pea,SK,Province,"Field Pea, 10 year average",0.1280464256482538
+10,Mustard,SK,Province,"Mustard, 10 year average",0.09875819537229354
+11,Canaryseed,SK,Province,"Canaryseed, 10 year average",0.12388767829417323
+12,Lentil,SK,Province,"Lentil, 10 year average",0.13878379015999756
+13,Chickpea,SK,Province,"Chickpea, 10 year average",0.13390808763055168
+14,Potato,SK,Province,"Potato, 10 year average",2.6685673206057157
